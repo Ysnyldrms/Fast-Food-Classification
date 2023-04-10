@@ -23,4 +23,9 @@ Test : Contains 1,500 validation images, with each class having 100/200 images.
 
 I used BİT M MODEL for creating model : url = "https://tfhub.dev/google/bit/m-r50x1/1"
 
- For data visualization I used matplotlib and plotly libraries.
+For data visualization Matplotlib and Plotly libraries are used.
+ 
+ Here is the result !  
+ 
+ ![image](https://user-images.githubusercontent.com/111190076/230912020-857ad454-52b7-4ada-b9a2-e84f30836367.png)
+
